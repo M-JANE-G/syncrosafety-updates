@@ -1,0 +1,14 @@
+{
+  "latest": {
+    "version": "1.0.3",
+    "mandatory": false,
+    "min_supported_version": "1.0.0",
+    "installer": {
+      "url": "PLACEHOLDER",
+      "sha256": "PLACEHOLDER"
+    }
+  },
+  "rollout": {
+    "rings": { "broad": 100 }
+  }
+}
