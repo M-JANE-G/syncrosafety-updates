@@ -1,11 +1,11 @@
 {
   "latest": {
-    "version": "1.0.3",
+    "version": "1.1.0",
     "mandatory": false,
     "min_supported_version": "1.0.0",
     "installer": {
-      "url": "PLACEHOLDER",
-      "sha256": "PLACEHOLDER"
+      "url": "https://github.com/M-JANE-G/SyncroSafety/releases/download/v1.1.0/SyncroSafetySetup-1.1.0.exe",
+      "sha256": "5f239cbe0eaadfe3cf2effe5db6fc11a84d79b3fbea6eba4f04498e4205701d6"
     }
   },
   "rollout": {
