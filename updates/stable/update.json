@@ -1,17 +1,17 @@
 {
   "latest": {
-    "version": "1.4.1",
+    "version": "1.4.2",
     "mandatory": false,
     "min_supported_version": "1.0.0",
     "installer": {
-      "url": "https://syncrosafety.com/updates/stable/SyncroSafetySetup-1.4.1.exe",
-      "sha256": "a685f9b7994c55a5773e0600c12a5225c02b07c6ac0c9e4b93b61faaf7537767"
+      "url": "https://syncrosafety.com/updates/stable/SyncroSafetySetup-1.4.2.exe",
+      "sha256": "a4cc942ea6f3bc35e31e7d4d32c59f200679f1830dd7181eb1ca16ee8e89d1e7"
     }
   },
   "rollout": {
     "rings": {
       "broad": 100
     },
-    "salt": "1.4.1"
+    "salt": "1.4.2"
   }
 }
