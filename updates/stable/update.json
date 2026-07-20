@@ -1,18 +1,18 @@
 {
   "latest": {
-    "version": "1.9.1",
+    "version": "1.10.0",
     "mandatory": false,
     "min_supported_version": "1.0.0",
     "installer": {
-      "url": "https://syncrosafety.com/updates/stable/SyncroSafetySetup-1.9.1.exe",
-      "sha256": "ca3b86d12df1c66642485d3e26f1d3c1a8565b0f24a897eedb6b163e8ffa9463"
+      "url": "https://syncrosafety.com/updates/stable/SyncroSafetySetup-1.10.0.exe",
+      "sha256": "24ce1898c691a31019ea124e1614d5c6603f970a1f2fe0155ee8ed631e81059f"
     }
   },
   "rollout": {
     "rings": {
       "broad": 100
     },
-    "salt": "1.9.1"
+    "salt": "1.10.0"
   },
-  "sig": "ZTpNNAP5dGnB027NM+ItgzSGP8QApn2WNtPy7RfZl92tYxr/ZsFrSyJoOUrLF1BivV5DGdVW75i+P7mENfN2AQ=="
+  "sig": "4a+XcztnoYDFJGdTXp0g7pHP47PQB5UcPrSTChzYG49wYa+KSggAZmTaufBjCO78unLnyhV0/ojaG5JfX4iLDQ=="
 }
