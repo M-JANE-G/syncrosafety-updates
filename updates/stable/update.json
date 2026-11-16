@@ -1,21 +1,22 @@
 {
   "latest": {
-    "version": "1.16.0",
+    "version": "1.17.1",
     "mandatory": false,
     "min_supported_version": "1.0.0",
     "installer": {
-      "url": "https://syncrosafety.com/updates/stable/SyncroSafetySetup-1.16.0.exe",
-      "sha256": "ed37f145a4cc1f684a729a012a1562f6dd5a0c780af141fb32f9b05851035fc9"
-    }
+      "url": "https://syncrosafety.com/updates/stable/SyncroSafetySetup-1.17.1.exe",
+      "sha256": "f33790b7f7d04ea2aa971a3972cbf97cc729c446bbcfced23d60509e0781a149"
+    },
+    "released": "2026-11-16"
   },
   "rollout": {
     "rings": {
       "broad": 100
     },
-    "salt": "1.16.0"
+    "salt": "1.17.1"
   },
   "revoked_licences": [
     "DACUNA001"
   ],
-  "sig": "HETA7b7MdKQRb2OzymCPgaF/8ooxaSDeNdhiPL6kvP785EyEv6Nm6yAvXkvxDyFPOojHlxBxEzp52C5/lUvgCQ=="
+  "sig": "5NkO8/0NotW9li/45+e4CyrdER92dZP+bke54bKfK5furJrusadX9mIKOt1ImYJITreh49lNd/26ww6XBKZ3Dg=="
 }
